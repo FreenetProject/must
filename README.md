@@ -1,4 +1,4 @@
-# must.js
+# Must-type.js
 is a framework which is inspired from the require() in solidity, used for validating types and inputs on common js and even on es6 
 withiut the use of typescript, this good for aplication which has to require a type for aurguments of functions or input on forms
 ## install
