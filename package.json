@@ -1,0 +1,28 @@
+{
+  "name": "testMust",
+  "version": "0.0.0",
+  "description": "typing and validation for javascript",
+  "main": "main.js",
+  "module": "es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/FreenetProject/must.git"
+},
+  "keywords": [
+    "require",
+    "must",
+    "typing"
+  ],
+  "homepage": "https://github.com/FreenetProject/mustDocs",
+  "author": "Lluie Cain Andaya",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true
+
+}
