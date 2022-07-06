@@ -3,7 +3,7 @@ is a framework which is inspired from the require() in solidity, used for valida
 withiut the use of typescript, this good for aplication which has to require a type for aurguments of functions or input on forms
 ## install
 ```bash
-npm i must.js 
+npm i must-type
 ```
 
 ## usage
