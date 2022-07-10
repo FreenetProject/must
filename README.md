@@ -97,4 +97,4 @@ if(type(identifier.age) == t.num ){
 ```
 
 
-to learn must.js please visit the [documentation](http://localhost:5000) for more information 
+to learn must.js please visit the [documentation](https://github.com/FreenetProject/mustDocs) for more information 
